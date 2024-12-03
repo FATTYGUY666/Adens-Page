@@ -1,4 +1,11 @@
-theme: minima
-tite: Aden's Github
+title: "Aden's Portfolio"
+description: "A portfolio to showcase my projects and achievements."
+
+theme: Portfolio  # Use 'minima' or another Jekyll theme
 author: Aden Athar
-Description: A quick overview of my github with some of my porjects.
+paginate: 5
+
+# Optional social links
+social_links:
+  - github: https://github.com/<your-username>
+  - linkedin: https://linkedin.com/in/<your-linkedin-profile>
